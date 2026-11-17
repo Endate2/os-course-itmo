@@ -1,0 +1,9 @@
+build/
+cmake-build-debug/
+mnt/
+plan.md
+.tgfs_env
+tdlib-db/
+.idea/
+.DS_Store
+.env
